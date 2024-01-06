@@ -229,5 +229,12 @@ main section {
 .downloac-cv{
     text-align: center;
     margin-top: 50px;
+    margin-bottom: 113px;
 }
 
+/* Footer Style */
+footer{
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 230px;
+}
