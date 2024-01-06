@@ -251,6 +251,14 @@ footer {
     width: 50%;
 }
 
+.foot-section-title{
+    margin-bottom: 20px;
+
+}
+
+.foot-section-description{
+    margin-bottom: 30px;
+}
 .social-links{
     margin-right: 25px;
 }
