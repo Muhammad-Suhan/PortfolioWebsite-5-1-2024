@@ -222,19 +222,62 @@ main section {
     font-weight: 400;
     line-height: 28px;
 }
+
 .resume-colum hr {
     margin-top: 30px;
 }
 
-.downloac-cv{
+.downloac-cv {
     text-align: center;
     margin-top: 50px;
     margin-bottom: 113px;
 }
 
 /* Footer Style */
-footer{
+footer {
     display: flex;
+    gap: 117px;
     background: #FFF8F3;
     padding: 130px 230px;
+}
+
+.footer-colum {
+    width: 50%;
+}
+
+.social-links{
+    margin-right: 25px;
+}
+
+/* Massage Area */
+.contact input[type="text"], .contact input[type="email"]{
+    display: block;
+    margin-bottom: 24px;
+    padding: 18px 35px;
+
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+
+    border-radius: 5px;
+    background: #FFF;
+    border: 0px;
+
+    width: 100%;
+
+
+}
+textarea {
+    display: block;
+    margin-bottom: 24px;
+    padding: 18px 35px;
+
+    color: #757575;
+    font-size: 16px;
+    border-radius: 5px;
+    background: #FFF;
+    border: 0px;
+
+    width: 100%;
 }
